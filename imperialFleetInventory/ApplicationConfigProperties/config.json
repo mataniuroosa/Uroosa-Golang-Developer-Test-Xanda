@@ -1,0 +1,15 @@
+{
+    "database" : {
+        "database_host" : "localhost" , 
+        "database_port" : "3306",
+        "database_name" : "imperialfleetinventory" ,
+        "database_user"  :  "root",
+        "database_password" : "password",
+        "space_craft_table_name": "SpaceCraft",
+        "armament_table_name" : "Armament",
+        "authenticateUser_table_name" : "AuthenticateUser"
+    }, 
+    "server_host" : "localhost",
+    "server_port" : "8080"
+
+}
